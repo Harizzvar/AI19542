@@ -1,1 +1,9 @@
-# AI19542
+# AI19542 - Data Science using R - Laboratory
+
+NAME: Harishvar K
+
+ROLL NO: 221501040
+
+DEPT: B.TECH AI-ML III SEC: A
+
+RAJALAKSHMI ENGINEERING COLLEGE
